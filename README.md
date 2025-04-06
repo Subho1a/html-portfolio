@@ -1,33 +1,34 @@
 
-# My HTML Portfolio
 
-Welcome to my first GitHub project! This is a personal portfolio built using only HTML. It showcases who I am, my skills, and my projects as I start my journey into web development.
 
-## 🔗 Live Demo
-
-[View Portfolio](https://github.com/Subho1a/html-portfolio.git)  
 *(Replace this link with your actual GitHub Pages link)*
 
-## 📁 Features
+# Portfolio Website
 
-- Responsive layout
-- About Me section
-- Projects showcase
-- Contact form (non-functional for now)
+A simple portfolio website showcasing my web development projects.
+[View Portfolio](https://github.com/Subho1a/html-portfolio.git)  
 
-## 🛠️ Built With
+## Description
 
-- HTML5
+This portfolio website includes:
+- Information about me as a web developer
+- Links to my projects with preview images
+- Contact and about me pages
 
-## 📸 Screenshots
+## Projects
 
-*(Insert a screenshot here if you have one)*
+- Movie Ranking Project
+- Birthday Invite Project
 
-## 🚀 Getting Started
+## Technologies Used
 
-To view locally:
+- HTML
 
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-open index.html
+## Setup
+
+1. Clone the repository
+2. Open `index.html` in your browser
+
+## Preview
+
+The portfolio displays my projects with images and links to each project page. 
