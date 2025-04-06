@@ -1,8 +1,4 @@
 
-
-
-*(Replace this link with your actual GitHub Pages link)*
-
 # Portfolio Website
 
 A simple portfolio website showcasing my web development projects.
