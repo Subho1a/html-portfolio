@@ -2,7 +2,7 @@
 # Portfolio Website
 
 A simple portfolio website showcasing my web development projects.
-[View Portfolio](https://github.com/Subho1a/html-portfolio.git)  
+[View Portfolio](https://subho1a.github.io/html-portfolio/)  
 
 ## Description
 
